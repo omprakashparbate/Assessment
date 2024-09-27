@@ -1,0 +1,36 @@
+todo-app {
+  width: 400px;
+  margin: 50px auto;
+  text-align: center;
+  font-family: Arial, sans-serif;
+}
+
+button {
+  margin: 10px;
+}
+
+input[type="text"] {
+  padding: 8px;
+  width: 80%;
+}
+
+button {
+  padding: 8px 12px;
+}
+
+.todo-item {
+  margin: 10px 0;
+  cursor: pointer;
+}
+
+.todo-item span {
+  margin-right: 10px;
+}
+
+.todo-item button {
+  background-color: red;
+  color: white;
+  border: none;
+  padding: 5px 10px;
+  cursor: pointer;
+}
